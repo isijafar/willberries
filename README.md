@@ -1,5 +1,5 @@
 # Willberries
-## User technologies
+## Used technologies
 - html
  css
 - Javascript
