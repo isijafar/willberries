@@ -1,8 +1,8 @@
 # willberries
 # User technologies
-~ html
-~ css
-~ Javascript
+- html
+ css
+- Javascript
 # libraries
-~ Bootstrap v5
-~ Swiper Slider
+- Bootstrap v5
+- Swiper Slider
