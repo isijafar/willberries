@@ -1,7 +1,7 @@
 # Willberries
 ## Used technologies
 - html
- css
+- css
 - Javascript
 ## libraries
 - Bootstrap v5
