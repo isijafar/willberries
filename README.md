@@ -1,5 +1,5 @@
 # Willberries
-<https://isijafar.github.io/willberries/>
+<https://ejafarow.github.io/willberries/>
 ## Used technologies
 - html
 - css
